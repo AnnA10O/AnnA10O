@@ -8,6 +8,21 @@
   I'm an aspirant trying to learn new codes and snippets daily to improve myself in Machine Learning and Data Science.
 </p>
 
+```python
+class AboutMe:
+    def __init__(self):
+        self.name = "Bhargav Gannavarapu"
+        self.role = "Student and devloper"
+        self.location = "India 🇮🇳"
+        self.learning = ["Python 🐍", "CPP 💻"]
+        self.interests = ["Open Source 🌟", "Machine Learning 🤖","Data Science 🌐","GSoC 🚀"]
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's craft something amazing together!")
+
+AnnA = AboutMe()
+AnnA.say_hello()
+```
 ###
 
 
